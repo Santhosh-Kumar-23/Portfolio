@@ -18,9 +18,9 @@ const Projects = () => {
         "A user-friendly loan application system for employees to apply for loans through their organizations.",
       icon: <Shield className="w-8 h-8" />,
       features: [
-        "Built a React-based portal for managing loan requests",
-        "Implemented role-based access control",
-        "Enhanced form validations and portal performance",
+        "Quick and Simple Application Process: Streamline your experience with an efficient application process.",
+        "Easy Access to Earned Salary: Advanced access to your earned wages before payday.",
+        "Instant Approval and Credit Activation: Get immediate approval and access to your funds without delays.",
       ],
       tech: ["React", "Graphql", "Redux", "Firebase for Push Notification"],
       color: "from-blue-500 to-indigo-500",
@@ -34,9 +34,9 @@ const Projects = () => {
         "ABFFIT is a fitness coaching platform designed to personalized training plans and progress tracking for users. The application allows users to interact with fitness coach and track their workouts",
       icon: <Globe className="w-8 h-8" />,
       features: [
-        "Integrated Google Maps API",
+        "A online coaching app created to develop your physique & fitness journey.",
         "Created reusable UI components",
-        "Designed responsive mobile-friendly interface",
+        "Provided training programs, nutritions plans, consultations & much more under coach ahmed (ABFFIT) in order to help you advance in all aspects.",
       ],
       tech: [
         "React",
