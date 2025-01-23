@@ -150,7 +150,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full blur-3xl opacity-30 animate-pulse" />
               <img
                 src={AboutImg}
-                alt="Nirmal Raj P"
+                alt="Santhosh Kumar M"
                 className="relative rounded-3xl w-full h-full object-cover shadow-2xl"
               />
               <div className="absolute inset-0 rounded-3xl border-2 border-white/10" />
