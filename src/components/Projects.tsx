@@ -35,7 +35,6 @@ const Projects = () => {
       icon: <Globe className="w-8 h-8" />,
       features: [
         "A online coaching app created to develop your physique & fitness journey.",
-        "Created reusable UI components",
         "Provided training programs, nutritions plans, consultations & much more under coach ahmed (ABFFIT) in order to help you advance in all aspects.",
       ],
       tech: [
