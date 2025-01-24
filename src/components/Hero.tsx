@@ -99,9 +99,7 @@ const Hero = () => {
             >
               <div className="flex items-center gap-2">
                 <Phone className="w-5 h-5" />
-                <a href="tel:+919360147391" className="hover:text-blue-400">
-                  +91 9597654585
-                </a>
+                <p className="hover:text-blue-400">+91 9597654585</p>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-5 h-5" />
