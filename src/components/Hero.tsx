@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ChevronDown, Download, Linkedin, MapPin, Phone } from "lucide-react";
-import Resume from "../assets/UpdatedResume.pdf";
 import AboutImg from "../assets/react.png";
+import Resume from "../assets/resumee.pdf";
 
 const Hero = () => {
   const scrollToAbout = () => {
